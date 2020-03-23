@@ -2,8 +2,8 @@
 def display_board
 cell = "   "
 puts board = cell + "|" + "   " + "|   "
-puts "-" * 10
+puts "-" * 11
 puts board = cell + "|" + "   " + "|   "
-puts "-" * 10
+puts "-" * 11
 puts board = cell + "|" + "   " + "|   "
 end
