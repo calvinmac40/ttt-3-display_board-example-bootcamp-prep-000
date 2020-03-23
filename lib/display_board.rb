@@ -5,5 +5,5 @@ puts board = cell + "  |" + "   " + "|  "
 puts "-" * 10
 puts board = cell + "  |" + "   " + "|  "
 puts "-" * 10
-
+puts board = cell + "  |" + "   " + "|  "
 end
